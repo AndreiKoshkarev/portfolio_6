@@ -1,0 +1,9 @@
+# _config.yml
+title: Telegram @Blurkin
+theme: minima
+
+# Try this to enable dark mode
+minima:
+  skin: auto # Options: 'default' (light), 'dark', or 'auto' (based on system preference)
+
+# Your other settings...
